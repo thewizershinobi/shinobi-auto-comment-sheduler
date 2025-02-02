@@ -100,6 +100,7 @@ Change how comments are selected: Modify get_relevant_comments().
 Change the email notification recipient: Edit send_admin_notification().
 Change the cron schedule: Modify schedule_comment_cron().
 
-For additional help, visit WP Shinobi.
+For additional help, visit [WpShinobi](https://wpshinobi.com)
+.
 
 🚀 Enjoy your automated comment system! 🥷
